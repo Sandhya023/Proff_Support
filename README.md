@@ -46,6 +46,12 @@ Double click the installer .exe and step through the install. On the screen XAMP
 At the end of install start the XAMPP Control Panel when prompted.
 
 
+### Ubuntu :
+Write below commands on terminal and then run Apache server and MySQL:
+sudo /opt/lampp/lampp stop
+sudo /etc/init.d/apache2 stop
+sudo /etc/init.d/mysql stop
+sudo /opt/lampp/lampp start
 
 ## Step 2: Start Apache and MySQL
 
