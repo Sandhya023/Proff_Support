@@ -3,6 +3,7 @@ PROFESSOR SUPPORT SYSTEM
 
 BY:
 POOJA GURJAR(201652016)
+
 SANDHYA YADAV(201652023)
 
 Title: Install a Xampp server to run the PHP file
@@ -48,10 +49,15 @@ At the end of install start the XAMPP Control Panel when prompted.
 
 ### Ubuntu :
 Write below commands on terminal and then run Apache server and MySQL:
+
 sudo /opt/lampp/lampp stop
+
 sudo /etc/init.d/apache2 stop
+
 sudo /etc/init.d/mysql stop
+
 sudo /opt/lampp/lampp start
+
 
 ## Step 2: Start Apache and MySQL
 
